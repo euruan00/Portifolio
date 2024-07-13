@@ -377,7 +377,7 @@ section .title::after{
 .skills .skills-content .right .line{
     height: 5px;
     width: 100%;
-    background: lightgrey;
+    background: rgb(82, 81, 81);
     position: relative;
 }
 .skills .skills-content .right .line::before{
@@ -386,25 +386,25 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: rgb(0, 255, 21);
+    background: rgba(255, 153, 0, 0.87);
 }
 .skills-content .right .html::before{
-    width: 100%;
+    width: 98%;
 }
 .skills-content .right .css::before{
-    width: 100%;
+    width: 80%;
 }
 .skills-content .right .js::before{
-    width: 100%;
+    width: 70%;
 }
 .skills-content .right .Git-GitHub::before{
-    width: 100%;
+    width: 50%;
 }
 .skills-content .right .figma::before{
-    width: 100%;
+    width: 99%;
 }
 .skills-content .right .React::before{
-    width: 100%;
+    width: 80%;
 }
 
 /*Projetos Section Estilo*/
